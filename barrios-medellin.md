@@ -1,5 +1,5 @@
 #Barrios Medellin
-centro
-Belen
-america
-laureles
+*centro
+*Belen
+*america
+*laureles
